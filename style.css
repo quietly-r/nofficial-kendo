@@ -1,7 +1,7 @@
 body{
   margin:0;
   font-family:sans-serif;
-  background:#fff7fb;
+  background:#add8e6;
   color:#666;
 }
 
@@ -37,7 +37,7 @@ nav a{
   display:inline-block;
   margin:6px;
   padding:8px 14px;
-  background:#add8e6;
+  background:#ffe3ee;
   border-radius:999px;
   text-decoration:none;
   color:#666;
