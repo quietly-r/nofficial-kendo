@@ -14,14 +14,6 @@ h1{
   margin:0;
 }
 
-h2{
-  font-size:16px;      /* 小さめ */
-  font-weight:normal;  /* 太くしない */
-  color:#add8e6;       /* add8e6少し薄い色 */
-  text-align:center;
-  margin:10px 0;
-  letter-spacing:1px;  /* 少し間隔 */
-}
 
 .goal{
   max-width:700px;
@@ -45,7 +37,7 @@ nav a{
   display:inline-block;
   margin:6px;
   padding:8px 14px;
-  background:#ffe3ee;
+  background:#add8e6;
   border-radius:999px;
   text-decoration:none;
   color:#666;
